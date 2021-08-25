@@ -1,0 +1,1 @@
+words = ["kfc", "bahandi", "starbucks", "salambro"]
